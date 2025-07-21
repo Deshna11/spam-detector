@@ -21,3 +21,6 @@ This is a simple Spam SMS Detector web app built using Streamlit. It uses a mach
   - scikit-learn
   - nltk
   - pickle
+ 
+    deployed url:
+    https://spam-detector-o3bhb8r9bagmww86rx4w68.streamlit.app/
